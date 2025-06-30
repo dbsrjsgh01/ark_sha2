@@ -18,7 +18,7 @@ ark-relations = "0.4.0"
 ark-poly = "0.4.2"
 ark-r1cs-std = { version = "0.4.0", optional = true, default-features = false }
 ark-crypto-primitives = { version = "0.4.0", features = ["snark"] }
-rayon = { verion = "1.7.0", optional = true }
+rayon = { version = "1.7.0", optional = true }
 tracing = { version = "0.1.37", optional = true }
 derivative = { version = "2.2.0", default-features = false, optional = true }
 ark-sponge = "0.3.0"
